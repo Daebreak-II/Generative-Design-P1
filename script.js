@@ -10,15 +10,14 @@ const fillers = {
     baddies: ["orcs", "glubs", "fishmen", "cordungles", "mountain trolls", "college professors", "dragon", "evil $adventurer", "agents of chaos"],
     message: ["call", "txt", "post", "decree", "shoutz", "tweets", "choiche", "hearkens", "harkening", "harkenening", "harkenenening", "...wait, no! Come back", "Watermelon"],
 
-    describer: ["chipper"],
-    name: ["dale"],
-    place: ["rocky mountain"],
-    weather: ["bright", "clear"],
-    thing1: ["pocket knife"],
-    thing2: ["survival book"],
-    creature: ["rabbit"],
-    surrounding: ["rock"],
-    product: ["spear"],
+    describer: ["chipper", "dumb", "religious", "lazy", "energetic", "sadistic"],
+    name: ["Dale", "Bob", "King Charls VII", "Larry", "Murder-Robot", "Richard", "Loony", "Chris"],
+    place: ["Rocky Mountain", " Witchy Woods", "Creaky Canyon", "Bad Basin"],
+    weather: ["bright", "clear", "foggy", "sunny", "cloudy", "rainy", "cold", "frosty"],
+    thing: ["pocket knife", "ball of string", "survival book", "lighter", "pack of gum", "retainer", "pocket lint", "handheld axe", "deoderant"],
+    creature: ["rabbit", "wolf", "capybarya", "donkey", "snake", "goose", "mountian lion", "tiger", "lizard", "bear", "skink", "beetle"],
+    surrounding: ["rock", "tree", "stump", "stick", "river", "log cabin", "full buffet"],
+    product: ["spear", "megaphone", "function car", "crude oil", "pepper spray", "moose"],
 
     
   };
@@ -34,11 +33,11 @@ const fillers = {
 
   Panicking a little, he managed to calm himself down by breathing camly, and taking stock of his surroundings. 
   
-  In his pockets, he had a $thing1, a $thing2, and a $product. Around him, there was a $creature and a $surrounding. 
+  In his pockets, he had a $thing, a $thing, and a $product. Around him, there was a $creature and a $surrounding. 
 
   Using only $thing1 and $thing2, he managed to make a $thing1 - $product, and used it to defend himself from $creature.
 
-  Shortly Afterwards, he was rescued, 
+  Shortly Afterwards, he was rescued, and recounted said tale to me. One-hundered percent true!
   
   `
   
