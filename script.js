@@ -16,9 +16,9 @@ const fillers = {
     place: ["Rocky Mountain", " Witchy Woods", "Creaky Canyon", "Bad Basin"],
     weather: ["bright", "clear", "foggy", "sunny", "cloudy", "rainy", "cold", "frosty"],
     thing: ["pocket knife", "ball of string", "survival book", "lighter", "pack of gum", "retainer", "pocket lint", "handheld axe", "deoderant"],
+    type: ["throwing", "diving", "curling", "twirling", "skydiving"],
+    tool: ["club", "stick", "spear", "axe", "gun", "attack helicopter", "knife", "grenade", "catapult", "flashlight"],
     creature: ["rabbit", "wolf", "capybarya", "donkey", "snake", "goose", "mountian lion", "tiger", "lizard", "bear", "skink", "beetle"],
-    surrounding: ["rock", "tree", "stump", "stick", "river", "log cabin", "full buffet"],
-    product: ["spear", "megaphone", "function car", "crude oil", "pepper spray", "moose"],
     
   };
   
@@ -33,11 +33,9 @@ const fillers = {
 
   const template = `One day, my $describer friend $name was going out for a hike at $place. It was a $weather and $weather day, until he realized that he was completely and utterly lost!
 
-  Panicking a little, he managed to calm himself down by breathing camly, and taking stock of his surroundings. 
+  Fortunatly, they were prepared, and remembered the inscructions from the survival book they recently read.
   
-  In his pockets, he had a $thing, a $thing, and a $product. Around him, there was a $creature and a $surrounding. 
-
-  Using $thing and $thing, he managed to make a $thing - $thing, and used it to defend himself from $creature.
+  Using just a $thing and $thing in his pockets, they franticly crafted a $type-$tool, and used it to fend off a $creatureDescriber $creature !
 
   Shortly Afterwards, he was rescued, and recounted said tale to me. One-hundered percent true!
   
