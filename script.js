@@ -31,13 +31,13 @@ const fillers = {
   `;
   */
 
-  const template = `One day, my $describer friend $name was going out for a hike at $place. It was a $weather and $weather day, until he realized that he was completely and utterly lost!
+  const template = `One day, my $describer friend $name was going out for a hike at $place. It was a $weather and $weather day, but suddenly he realized that he was completely and utterly lost!
 
-  Fortunatly, they were prepared, and remembered the inscructions from the survival book they recently read.
+  Fortunately, they were prepared, and remembered the inscructions from the survival book they recently read.
   
-  Using just a $thing and $thing in his pockets, they franticly crafted a $type-$tool, and used it to fend off a $creatureDescriber $creature !
+  Using just a $thing and $thing in his pockets, they franticly crafted a $type-$tool, and used it to fend off a $creatureDescriber $creature!
 
-  Shortly Afterwards, he was rescued, and recounted said tale to me. One-hundered percent true!
+  Shortly Afterwards, they were rescued, and recounted said tale to me. One-hundered percent true!
   
   `
   
