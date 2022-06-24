@@ -37,7 +37,7 @@ const fillers = {
   
   In his pockets, he had a $thing, a $thing, and a $product. Around him, there was a $creature and a $surrounding. 
 
-  Using only $thing1 and $thing2, he managed to make a $thing1 - $product, and used it to defend himself from $creature.
+  Using $thing and $thing, he managed to make a $thing - $thing, and used it to defend himself from $creature.
 
   Shortly Afterwards, he was rescued, and recounted said tale to me. One-hundered percent true!
   
