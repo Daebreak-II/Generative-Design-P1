@@ -1,4 +1,5 @@
 const fillers = {
+    /*
     adventurer: ["My dude", "Bro", "Adventurer", "Traveller", "Fellow", "Citizen", "Ashen One", "Dragonborn", "Cool person", "Tarnished", "$adventurer and $adventurer", "$adventurer, $adventurer, and $adventurer", "Geoff"],
     pre: ["Fra", "Tro", "Gre", "Pan", "Ast", "Ara"],
     post: ["gria", "ston", "gott","-on-the-lee", "ora", "Ara", "uwu"],
@@ -9,7 +10,7 @@ const fillers = {
     loots: ["coins", "chalices", "ingots", "hides", "victory points", "gems","scrolls", "bananas", "noodles", "goblins", "CS Majors", "college credits"],
     baddies: ["orcs", "glubs", "fishmen", "cordungles", "mountain trolls", "college professors", "dragon", "evil $adventurer", "agents of chaos"],
     message: ["call", "txt", "post", "decree", "shoutz", "tweets", "choiche", "hearkens", "harkening", "harkenening", "harkenenening", "...wait, no! Come back", "Watermelon"],
-
+    */
     describer: ["chipper", "dumb", "religious", "lazy", "energetic", "sadistic"],
     name: ["Dale", "Bob", "King Charls VII", "Larry", "Murder-Robot", "Richard", "Loony", "Chris"],
     place: ["Rocky Mountain", " Witchy Woods", "Creaky Canyon", "Bad Basin"],
@@ -18,18 +19,19 @@ const fillers = {
     creature: ["rabbit", "wolf", "capybarya", "donkey", "snake", "goose", "mountian lion", "tiger", "lizard", "bear", "skink", "beetle"],
     surrounding: ["rock", "tree", "stump", "stick", "river", "log cabin", "full buffet"],
     product: ["spear", "megaphone", "function car", "crude oil", "pepper spray", "moose"],
-
     
   };
   
+  /*
   const template = `$adventurer, heed my $message!
   
   I have just come from $pre$post where the $people folk are in desperate need. Their town has been overrun by $baddies. You must venture forth at once, taking my $item, and help them.
   
   It is told that the one who can rescue them will be awarded with $num $looty $loots. Surely this must tempt one such as yourself!
   `;
+  */
 
-  const template2 = `One day, my $describer friend $name was going out for a hike at $place. It was a $weather and $weather day, until he realized that he was completely and utterly lost!
+  const template = `One day, my $describer friend $name was going out for a hike at $place. It was a $weather and $weather day, until he realized that he was completely and utterly lost!
 
   Panicking a little, he managed to calm himself down by breathing camly, and taking stock of his surroundings. 
   
